@@ -8,7 +8,6 @@
     <title>MIGRATION @yield('title')</title>
 </head>
 <body>
-    <h1>MIGRATION SEEDER</h1>
     @yield('main-content')
 </body>
 </html>
