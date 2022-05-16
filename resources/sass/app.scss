@@ -2,3 +2,12 @@
 
 
 @import '~bootstrap/scss/bootstrap';
+
+main{
+    height: 100vh;
+    overflow-y: auto;
+}
+
+a{
+    text-decoration: none;
+}

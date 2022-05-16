@@ -8,6 +8,9 @@
     <title>Migration - @yield('title')</title>
 </head>
 <body>
-    @yield('main-content')
+    <main class="bg-danger">
+        @yield('main-content')
+    </main>
+    
 </body>
 </html>
